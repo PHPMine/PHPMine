@@ -23,8 +23,8 @@ Yes you can! Contributions are welcomed provided that they comply with our [Cont
 
 
 # Setup, help & support, FAQs
-Head over to the [documentation site](http://pmmp.readthedocs.org/).
-If you don't find what you're looking for there, [talk to a human](#discussion). Please do not use our issue tracker for support requests.
+Head over to the [documentation site]NOT Yet
+If you don't find what you're looking for there, [talk to a human]NOT Yet Please do not use our issue tracker for support requests.
 
 
 
