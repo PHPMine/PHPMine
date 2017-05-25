@@ -16,6 +16,12 @@
 
 
 
+# Can i Contribute
+Can I contribute?
+Yes you can! Contributions are welcomed provided that they comply with our [Contributing Guidelines](CONTRIBUTING.md). Please ensure you read the relevant sections of the guidelines carefully before making a Pull Request or opening an Issue.
+
+
+
 # Features On PHPMine
 -
 -
