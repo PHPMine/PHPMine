@@ -7,7 +7,7 @@ NOTE: The master branch is the only officially supported branch. All other branc
 
 # Tools For Creating Server
 
-
+# 
 DevTools - Plugin and server development tools plugin
 -
 Pocket Server - Run PHPMine/Nukkit on Android devices {NOT Avalible For IOS Devices
